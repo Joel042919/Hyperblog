@@ -1,7 +1,4 @@
 Esta es mi historia
-tengo 21 años
-para poder aprender git
- y
-Tengo una sobrina llamad hadasa belen
-
-Mi madre se llama maria
+tengo 21 años, estoy aprendiendo git.
+Tengo una sobrina llamada hadasa belen
+Mi madre se llama maria.
